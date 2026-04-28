@@ -38,7 +38,7 @@
 
 ---
 
-### 🤝 CREDITS & THANKS
+### CREDITS & THANKS
 * [**Figglewatts**](https://figglewatts.co.uk/) - Technical help
 * [**joy**](https://www.joynet.dev) - Tarp image
 * **lukyvald** - Tiles
