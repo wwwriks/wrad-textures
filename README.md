@@ -38,6 +38,17 @@
 
 ---
 
+### 🤝 CREDITS & THANKS
+* [**Figglewatts**](https://figglewatts.co.uk/) - Technical help
+* [**joy**](https://www.joynet.dev) - Tarp image
+* **lukyvald** - Tiles
+* **pigdeons** - Laika images
+* [**vilevictour**](https://virtual20xx.com/) - Tech images
+* [**William Jutbring**](https://linktr.ee/w_jutbring) - Name suggestion
+* [**Zach Smith**](https://zachsmith.info) - Rust image
+
+---
+
 ### MY BELOVED SUPPORTERS
 > Algvees, Robin, Morgan!, ADC AX, Twash, goatman, DJBillybool, HeadphoneEnjoyer, Ben Cummings, NA DANG, MrEliptik, luke
 
